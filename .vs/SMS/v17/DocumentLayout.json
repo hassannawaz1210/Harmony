@@ -1,0 +1,574 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hassan\\source\\repos\\SMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{293D74E8-6F00-402C-97DA-8003CB25B80F}|SMS\\SMS.csproj|C:\\Users\\Hassan\\source\\repos\\SMS\\sms\\mainframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{293D74E8-6F00-402C-97DA-8003CB25B80F}|SMS\\SMS.csproj|solutionrelative:sms\\mainframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293D74E8-6F00-402C-97DA-8003CB25B80F}|SMS\\SMS.csproj|C:\\Users\\Hassan\\source\\repos\\SMS\\sms\\soc_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{293D74E8-6F00-402C-97DA-8003CB25B80F}|SMS\\SMS.csproj|solutionrelative:sms\\soc_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293D74E8-6F00-402C-97DA-8003CB25B80F}|SMS\\SMS.csproj|c:\\users\\hassan\\source\\repos\\sms\\sms\\soc_apply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{293D74E8-6F00-402C-97DA-8003CB25B80F}|SMS\\SMS.csproj|solutionrelative:sms\\soc_apply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293D74E8-6F00-402C-97DA-8003CB25B80F}|SMS\\SMS.csproj|c:\\users\\hassan\\source\\repos\\sms\\sms\\soc_apply.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293D74E8-6F00-402C-97DA-8003CB25B80F}|SMS\\SMS.csproj|solutionrelative:sms\\soc_apply.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293D74E8-6F00-402C-97DA-8003CB25B80F}|SMS\\SMS.csproj|c:\\users\\hassan\\source\\repos\\sms\\sms\\members.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{293D74E8-6F00-402C-97DA-8003CB25B80F}|SMS\\SMS.csproj|solutionrelative:sms\\members.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293D74E8-6F00-402C-97DA-8003CB25B80F}|SMS\\SMS.csproj|c:\\users\\hassan\\source\\repos\\sms\\sms\\make_ann.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{293D74E8-6F00-402C-97DA-8003CB25B80F}|SMS\\SMS.csproj|solutionrelative:sms\\make_ann.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293D74E8-6F00-402C-97DA-8003CB25B80F}|SMS\\SMS.csproj|C:\\Users\\Hassan\\source\\repos\\SMS\\sms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{293D74E8-6F00-402C-97DA-8003CB25B80F}|SMS\\SMS.csproj|solutionrelative:sms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293D74E8-6F00-402C-97DA-8003CB25B80F}|SMS\\SMS.csproj|C:\\Users\\Hassan\\source\\repos\\SMS\\sms\\join_apply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{293D74E8-6F00-402C-97DA-8003CB25B80F}|SMS\\SMS.csproj|solutionrelative:sms\\join_apply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293D74E8-6F00-402C-97DA-8003CB25B80F}|SMS\\SMS.csproj|c:\\users\\hassan\\source\\repos\\sms\\sms\\join_app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{293D74E8-6F00-402C-97DA-8003CB25B80F}|SMS\\SMS.csproj|solutionrelative:sms\\join_app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293D74E8-6F00-402C-97DA-8003CB25B80F}|SMS\\SMS.csproj|C:\\Users\\Hassan\\source\\repos\\SMS\\sms\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{293D74E8-6F00-402C-97DA-8003CB25B80F}|SMS\\SMS.csproj|solutionrelative:sms\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293D74E8-6F00-402C-97DA-8003CB25B80F}|SMS\\SMS.csproj|C:\\Users\\Hassan\\source\\repos\\SMS\\sms\\event_popup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{293D74E8-6F00-402C-97DA-8003CB25B80F}|SMS\\SMS.csproj|solutionrelative:sms\\event_popup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293D74E8-6F00-402C-97DA-8003CB25B80F}|SMS\\SMS.csproj|C:\\Users\\Hassan\\source\\repos\\SMS\\sms\\edit_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{293D74E8-6F00-402C-97DA-8003CB25B80F}|SMS\\SMS.csproj|solutionrelative:sms\\edit_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293D74E8-6F00-402C-97DA-8003CB25B80F}|SMS\\SMS.csproj|c:\\users\\hassan\\source\\repos\\sms\\sms\\create_event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{293D74E8-6F00-402C-97DA-8003CB25B80F}|SMS\\SMS.csproj|solutionrelative:sms\\create_event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293D74E8-6F00-402C-97DA-8003CB25B80F}|SMS\\SMS.csproj|C:\\Users\\Hassan\\source\\repos\\SMS\\sms\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{293D74E8-6F00-402C-97DA-8003CB25B80F}|SMS\\SMS.csproj|solutionrelative:sms\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293D74E8-6F00-402C-97DA-8003CB25B80F}|SMS\\SMS.csproj|c:\\users\\hassan\\source\\repos\\sms\\sms\\app_details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{293D74E8-6F00-402C-97DA-8003CB25B80F}|SMS\\SMS.csproj|solutionrelative:sms\\app_details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293D74E8-6F00-402C-97DA-8003CB25B80F}|SMS\\SMS.csproj|c:\\users\\hassan\\source\\repos\\sms\\sms\\app_card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{293D74E8-6F00-402C-97DA-8003CB25B80F}|SMS\\SMS.csproj|solutionrelative:sms\\app_card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293D74E8-6F00-402C-97DA-8003CB25B80F}|SMS\\SMS.csproj|C:\\Users\\Hassan\\source\\repos\\SMS\\sms\\anns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{293D74E8-6F00-402C-97DA-8003CB25B80F}|SMS\\SMS.csproj|solutionrelative:sms\\anns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293D74E8-6F00-402C-97DA-8003CB25B80F}|SMS\\SMS.csproj|C:\\Users\\Hassan\\source\\repos\\SMS\\sms\\ann_card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{293D74E8-6F00-402C-97DA-8003CB25B80F}|SMS\\SMS.csproj|solutionrelative:sms\\ann_card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293D74E8-6F00-402C-97DA-8003CB25B80F}|SMS\\SMS.csproj|C:\\Users\\Hassan\\source\\repos\\SMS\\sms\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{293D74E8-6F00-402C-97DA-8003CB25B80F}|SMS\\SMS.csproj|solutionrelative:sms\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293D74E8-6F00-402C-97DA-8003CB25B80F}|SMS\\SMS.csproj|C:\\Users\\Hassan\\source\\repos\\SMS\\sms\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293D74E8-6F00-402C-97DA-8003CB25B80F}|SMS\\SMS.csproj|solutionrelative:sms\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293D74E8-6F00-402C-97DA-8003CB25B80F}|SMS\\SMS.csproj|C:\\Users\\Hassan\\source\\repos\\SMS\\sms\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{293D74E8-6F00-402C-97DA-8003CB25B80F}|SMS\\SMS.csproj|solutionrelative:sms\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293D74E8-6F00-402C-97DA-8003CB25B80F}|SMS\\SMS.csproj|C:\\Users\\Hassan\\source\\repos\\SMS\\sms\\soc_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293D74E8-6F00-402C-97DA-8003CB25B80F}|SMS\\SMS.csproj|solutionrelative:sms\\soc_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293D74E8-6F00-402C-97DA-8003CB25B80F}|SMS\\SMS.csproj|C:\\Users\\Hassan\\source\\repos\\SMS\\sms\\temp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{293D74E8-6F00-402C-97DA-8003CB25B80F}|SMS\\SMS.csproj|solutionrelative:sms\\temp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293D74E8-6F00-402C-97DA-8003CB25B80F}|SMS\\SMS.csproj|C:\\Users\\Hassan\\source\\repos\\SMS\\sms\\temp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293D74E8-6F00-402C-97DA-8003CB25B80F}|SMS\\SMS.csproj|solutionrelative:sms\\temp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293D74E8-6F00-402C-97DA-8003CB25B80F}|SMS\\SMS.csproj|C:\\Users\\Hassan\\source\\repos\\SMS\\sms\\mainframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293D74E8-6F00-402C-97DA-8003CB25B80F}|SMS\\SMS.csproj|solutionrelative:sms\\mainframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293D74E8-6F00-402C-97DA-8003CB25B80F}|SMS\\SMS.csproj|C:\\Users\\Hassan\\source\\repos\\SMS\\sms\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293D74E8-6F00-402C-97DA-8003CB25B80F}|SMS\\SMS.csproj|solutionrelative:sms\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293D74E8-6F00-402C-97DA-8003CB25B80F}|SMS\\SMS.csproj|C:\\Users\\Hassan\\source\\repos\\SMS\\sms\\temp.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293D74E8-6F00-402C-97DA-8003CB25B80F}|SMS\\SMS.csproj|solutionrelative:sms\\temp.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293D74E8-6F00-402C-97DA-8003CB25B80F}|SMS\\SMS.csproj|C:\\Users\\Hassan\\source\\repos\\SMS\\sms\\edit_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293D74E8-6F00-402C-97DA-8003CB25B80F}|SMS\\SMS.csproj|solutionrelative:sms\\edit_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293D74E8-6F00-402C-97DA-8003CB25B80F}|SMS\\SMS.csproj|C:\\Users\\Hassan\\source\\repos\\SMS\\sms\\card.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293D74E8-6F00-402C-97DA-8003CB25B80F}|SMS\\SMS.csproj|solutionrelative:sms\\card.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293D74E8-6F00-402C-97DA-8003CB25B80F}|SMS\\SMS.csproj|C:\\Users\\Hassan\\source\\repos\\SMS\\sms\\event_popup.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293D74E8-6F00-402C-97DA-8003CB25B80F}|SMS\\SMS.csproj|solutionrelative:sms\\event_popup.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293D74E8-6F00-402C-97DA-8003CB25B80F}|SMS\\SMS.csproj|C:\\Users\\Hassan\\source\\repos\\SMS\\sms\\event_popup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293D74E8-6F00-402C-97DA-8003CB25B80F}|SMS\\SMS.csproj|solutionrelative:sms\\event_popup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293D74E8-6F00-402C-97DA-8003CB25B80F}|SMS\\SMS.csproj|C:\\Users\\Hassan\\source\\repos\\SMS\\sms\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293D74E8-6F00-402C-97DA-8003CB25B80F}|SMS\\SMS.csproj|solutionrelative:sms\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293D74E8-6F00-402C-97DA-8003CB25B80F}|SMS\\SMS.csproj|C:\\Users\\Hassan\\source\\repos\\SMS\\sms\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{293D74E8-6F00-402C-97DA-8003CB25B80F}|SMS\\SMS.csproj|solutionrelative:sms\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293D74E8-6F00-402C-97DA-8003CB25B80F}|SMS\\SMS.csproj|C:\\Users\\Hassan\\source\\repos\\SMS\\sms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293D74E8-6F00-402C-97DA-8003CB25B80F}|SMS\\SMS.csproj|solutionrelative:sms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "soc_apply.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\SMS\\SMS\\soc_apply.Designer.cs",
+              "RelativeDocumentMoniker": "SMS\\soc_apply.Designer.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\SMS\\SMS\\soc_apply.Designer.cs*",
+              "RelativeToolTip": "SMS\\soc_apply.Designer.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T05:02:48.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "soc_apply.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\SMS\\SMS\\soc_apply.cs",
+              "RelativeDocumentMoniker": "SMS\\soc_apply.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\SMS\\SMS\\soc_apply.cs [Design]*",
+              "RelativeToolTip": "SMS\\soc_apply.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T05:02:59.697Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "members.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\SMS\\SMS\\members.cs",
+              "RelativeDocumentMoniker": "SMS\\members.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\SMS\\SMS\\members.cs [Design]",
+              "RelativeToolTip": "SMS\\members.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T05:02:32.547Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "make_ann.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\SMS\\SMS\\make_ann.cs",
+              "RelativeDocumentMoniker": "SMS\\make_ann.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\SMS\\SMS\\make_ann.cs [Design]",
+              "RelativeToolTip": "SMS\\make_ann.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T05:02:14.229Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "soc_profile.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\SMS\\SMS\\soc_profile.cs",
+              "RelativeDocumentMoniker": "SMS\\soc_profile.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\SMS\\SMS\\soc_profile.cs [Design]*",
+              "RelativeToolTip": "SMS\\soc_profile.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T17:49:15.854Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mainframe.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\SMS\\SMS\\mainframe.cs",
+              "RelativeDocumentMoniker": "SMS\\mainframe.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\SMS\\SMS\\mainframe.cs [Design]*",
+              "RelativeToolTip": "SMS\\mainframe.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T17:25:47.198Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "homepage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\SMS\\SMS\\homepage.cs",
+              "RelativeDocumentMoniker": "SMS\\homepage.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\SMS\\SMS\\homepage.cs [Design]",
+              "RelativeToolTip": "SMS\\homepage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T17:27:57.786Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "event_popup.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\SMS\\SMS\\event_popup.cs",
+              "RelativeDocumentMoniker": "SMS\\event_popup.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\SMS\\SMS\\event_popup.cs [Design]",
+              "RelativeToolTip": "SMS\\event_popup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T17:51:48.657Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "join_app.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\SMS\\SMS\\join_app.cs",
+              "RelativeDocumentMoniker": "SMS\\join_app.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\SMS\\SMS\\join_app.cs [Design]",
+              "RelativeToolTip": "SMS\\join_app.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T04:55:44.217Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "join_apply.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\SMS\\SMS\\join_apply.cs",
+              "RelativeDocumentMoniker": "SMS\\join_apply.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\SMS\\SMS\\join_apply.cs [Design]*",
+              "RelativeToolTip": "SMS\\join_apply.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T17:44:43.133Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\SMS\\SMS\\login.cs",
+              "RelativeDocumentMoniker": "SMS\\login.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\SMS\\SMS\\login.cs [Design]",
+              "RelativeToolTip": "SMS\\login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T17:40:09.767Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "edit_profile.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\SMS\\SMS\\edit_profile.cs",
+              "RelativeDocumentMoniker": "SMS\\edit_profile.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\SMS\\SMS\\edit_profile.cs [Design]",
+              "RelativeToolTip": "SMS\\edit_profile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T13:57:22.39Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "create_event.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\SMS\\SMS\\create_event.cs",
+              "RelativeDocumentMoniker": "SMS\\create_event.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\SMS\\SMS\\create_event.cs [Design]",
+              "RelativeToolTip": "SMS\\create_event.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T04:58:52.488Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "app_details.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\SMS\\SMS\\app_details.cs",
+              "RelativeDocumentMoniker": "SMS\\app_details.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\SMS\\SMS\\app_details.cs [Design]",
+              "RelativeToolTip": "SMS\\app_details.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T04:54:32.281Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "app_card.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\SMS\\SMS\\app_card.cs",
+              "RelativeDocumentMoniker": "SMS\\app_card.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\SMS\\SMS\\app_card.cs [Design]",
+              "RelativeToolTip": "SMS\\app_card.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T04:52:52.073Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "soc_profile.cs",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\SMS\\SMS\\soc_profile.cs",
+              "RelativeDocumentMoniker": "SMS\\soc_profile.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\SMS\\SMS\\soc_profile.cs*",
+              "RelativeToolTip": "SMS\\soc_profile.cs*",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAYwFgAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T17:53:31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "signup.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\SMS\\SMS\\signup.cs",
+              "RelativeDocumentMoniker": "SMS\\signup.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\SMS\\SMS\\signup.cs [Design]",
+              "RelativeToolTip": "SMS\\signup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T22:31:27.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "signup.cs",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\SMS\\SMS\\signup.cs",
+              "RelativeDocumentMoniker": "SMS\\signup.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\SMS\\SMS\\signup.cs",
+              "RelativeToolTip": "SMS\\signup.cs",
+              "ViewState": "AQIAAIgAAAAAAAAAAAAcwJkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T22:31:29.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "card.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\SMS\\SMS\\card.cs",
+              "RelativeDocumentMoniker": "SMS\\card.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\SMS\\SMS\\card.cs [Design]",
+              "RelativeToolTip": "SMS\\card.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T17:57:15.745Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "about.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\SMS\\SMS\\about.cs",
+              "RelativeDocumentMoniker": "SMS\\about.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\SMS\\SMS\\about.cs [Design]",
+              "RelativeToolTip": "SMS\\about.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T04:49:23.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "anns.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\SMS\\SMS\\anns.cs",
+              "RelativeDocumentMoniker": "SMS\\anns.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\SMS\\SMS\\anns.cs [Design]",
+              "RelativeToolTip": "SMS\\anns.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T04:51:03.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ann_card.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\SMS\\SMS\\ann_card.cs",
+              "RelativeDocumentMoniker": "SMS\\ann_card.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\SMS\\SMS\\ann_card.cs [Design]",
+              "RelativeToolTip": "SMS\\ann_card.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T17:47:39.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "mainframe.cs",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\SMS\\SMS\\mainframe.cs",
+              "RelativeDocumentMoniker": "SMS\\mainframe.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\SMS\\SMS\\mainframe.cs*",
+              "RelativeToolTip": "SMS\\mainframe.cs*",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAEwGgAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T17:26:31.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Temp.cs",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\SMS\\SMS\\Temp.cs",
+              "RelativeDocumentMoniker": "SMS\\Temp.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\SMS\\SMS\\Temp.cs",
+              "RelativeToolTip": "SMS\\Temp.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAADgvwsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T17:15:35.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Temp.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\SMS\\SMS\\Temp.cs",
+              "RelativeDocumentMoniker": "SMS\\Temp.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\SMS\\SMS\\Temp.cs [Design]",
+              "RelativeToolTip": "SMS\\Temp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T17:13:56.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "card.cs",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\SMS\\SMS\\card.cs",
+              "RelativeDocumentMoniker": "SMS\\card.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\SMS\\SMS\\card.cs",
+              "RelativeToolTip": "SMS\\card.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAEwCQAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T17:57:17.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Temp.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\SMS\\SMS\\Temp.Designer.cs",
+              "RelativeDocumentMoniker": "SMS\\Temp.Designer.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\SMS\\SMS\\Temp.Designer.cs",
+              "RelativeToolTip": "SMS\\Temp.Designer.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwD0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T17:14:30.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "edit_profile.cs",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\SMS\\SMS\\edit_profile.cs",
+              "RelativeDocumentMoniker": "SMS\\edit_profile.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\SMS\\SMS\\edit_profile.cs",
+              "RelativeToolTip": "SMS\\edit_profile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T13:57:33.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "card.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\SMS\\SMS\\card.Designer.cs",
+              "RelativeDocumentMoniker": "SMS\\card.Designer.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\SMS\\SMS\\card.Designer.cs",
+              "RelativeToolTip": "SMS\\card.Designer.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAtwD0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T17:57:19.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "event_popup.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\SMS\\SMS\\event_popup.Designer.cs",
+              "RelativeDocumentMoniker": "SMS\\event_popup.Designer.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\SMS\\SMS\\event_popup.Designer.cs",
+              "RelativeToolTip": "SMS\\event_popup.Designer.cs",
+              "ViewState": "AQIAAG4BAAAAAAAAAAAtwIcBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T17:55:36.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "event_popup.cs",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\SMS\\SMS\\event_popup.cs",
+              "RelativeDocumentMoniker": "SMS\\event_popup.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\SMS\\SMS\\event_popup.cs",
+              "RelativeToolTip": "SMS\\event_popup.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T17:55:30.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "events.cs",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\SMS\\SMS\\events.cs",
+              "RelativeDocumentMoniker": "SMS\\events.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\SMS\\SMS\\events.cs",
+              "RelativeToolTip": "SMS\\events.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T09:35:32.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "events.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\SMS\\SMS\\events.cs",
+              "RelativeDocumentMoniker": "SMS\\events.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\SMS\\SMS\\events.cs [Design]",
+              "RelativeToolTip": "SMS\\events.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T09:34:27.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\SMS\\SMS\\Program.cs",
+              "RelativeDocumentMoniker": "SMS\\Program.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\SMS\\SMS\\Program.cs",
+              "RelativeToolTip": "SMS\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T18:03:15.713Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
